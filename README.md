@@ -4,6 +4,9 @@ who attacked on my website ?
 This is a list of IP addresses that have attacked my website. I will update it from time to time. If you are a security researcher and found your IP here, please contact this email
 To erase it
 
+Wondering how these IPs are set here?
+We got the ip from the server log. Those who used tools like Fuff for these types of attacks
+
 REQUEST AND IP addresses
 ```
   28402 212.126.114.129
